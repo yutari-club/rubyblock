@@ -20,7 +20,8 @@
         "_locales/ja/minecraft/sim-strings.json",
         "_locales/ja/minecraft/target-strings.json",
         "README.md",
-        "_locales/ja/rubyblock-strings.json"
+        "_locales/ja/rubyblock-strings.json",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
