@@ -8,20 +8,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "_locales/ja/strings.json",
-        "_locales/ja/minecraft/builder-jsdoc-strings.json",
-        "_locales/ja/minecraft/builder-strings.json",
-        "_locales/ja/minecraft/core-jsdoc-strings.json",
-        "_locales/ja/minecraft/core-strings.json",
-        "_locales/ja/minecraft/nether-jsdoc-strings.json",
-        "_locales/ja/minecraft/nether-strings.json",
-        "_locales/ja/minecraft/shapes-jsdoc-strings.json",
-        "_locales/ja/minecraft/shapes-strings.json",
-        "_locales/ja/minecraft/sim-strings.json",
-        "_locales/ja/minecraft/target-strings.json",
         "README.md",
         "_locales/ja/rubyblock-strings.json",
-        "custom.ts"
+        "_locales/ja/rubyblock-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
@@ -33,5 +22,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
