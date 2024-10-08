@@ -1084,7 +1084,7 @@
 	"Select a {0} file to open.": "開(ひら)く{0}ファイルを選(えら)んでください。",
 	"Select all projects": "すべてのプロジェクトを選択(せんたく)する",
 	"Select code editor language": "言語(げんご)を選択(せんたく)",
-	"Select either '{0}' or '{1}' scope, depending which repos you want to edit from here": "これ以降(いこう)、編集(へんしゅう)したいリポジトリに応(おう)じて'{0}'か'{1}’のスコープを選択(せんたく)します。",
+	"Select either '{0}' or '{1}' scope, depending which repos you want to edit from here": "これ以降(いこう)、編集(へんしゅう)したいリポジトリに応(おう)じて'{0}'か'{1}'のスコープを選択(せんたく)します。",
 	"Select project version from {0} at {1}": "{0} のプロジェクトバージョンを {1} から選択(せんたく)",
 	"Select shared version from {0} at {1}": "{0} の共有(きょうゆう)バージョンを {1} から選択(せんたく)",
 	"Select the device in the pairing dialog": "ダイアログでデバイスを選(えら)んでください",
