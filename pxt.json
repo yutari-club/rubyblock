@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "_locales/ja/rubyblock-strings.json",
-        "_locales/ja/rubyblock-jsdoc-strings.json"
+        "_locales/ja/rubyblock-jsdoc-strings.json",
+        "icon.jres"
     ],
     "testFiles": [
         "test.ts"
